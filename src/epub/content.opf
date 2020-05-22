@@ -46,6 +46,7 @@
 		<meta property="term" refines="#subject-5">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Fantasy</meta>
+		<meta id="collection-1" property="belongs-to-collection">Martian Series</meta>
 		<dc:description id="description">John Carter returns to Mars to try and determine the fate of his lost love Dejah Thoris.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Gods of Mars&lt;/i&gt; is Burroughs’ sequel to &lt;i&gt;A Princess of Mars&lt;/i&gt;. After 10 long years, John Carter is again transported to Mars to try and determine the fate of his wife Dejah Thoris, but finds himself in the forbidden Valley Dor, from which no man may return. Published serially in five parts between January and May 1913, this sequel appeared a year after the initial serialization of its predecessor. It was eventually published in its full novel form in 1918.&lt;/p&gt;
