@@ -19,3 +19,7 @@ th{
 	font-variant: small-caps;
 	text-align: center;
 }
+
+table{
+	margin: 1em;
+}
