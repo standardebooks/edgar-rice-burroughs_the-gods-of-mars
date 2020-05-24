@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/edgar-rice-burroughs/the-gods-of-mars</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2020-05-24T01:36:48Z</dc:date>
+		<meta property="dcterms:modified">2020-05-24T01:36:48Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -51,14 +51,14 @@
 		<meta property="group-position" refines="#collection-1">2</meta>
 		<dc:description id="description">John Carter returns to Mars to try and determine the fate of his lost love Dejah Thoris.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;The Gods of Mars&lt;/i&gt; is Burroughs’ sequel to &lt;a href="https://standardebooks.org/ebooks/edgar-rice-burroughs/a-princess-of-mars"&gt;A Princess of Mars&lt;/a&gt;. After 10 long years, John Carter is again transported to Mars to try and determine the fate of his wife Dejah Thoris, but finds himself in the forbidden Valley Dor, from which no man may return. Published serially in five parts between January and May 1913, this sequel appeared a year after the initial serialization of its predecessor. It was eventually published in its full novel form in 1918.&lt;/p&gt;
-			&lt;p&gt;Although the &lt;a href="https://standardebooks.org/collections/martian-series"&gt;Martian Series&lt;/a&gt; contains 10 books in total, the first three—of which &lt;i&gt;The Gods of Mars&lt;/i&gt; is the second—are often considered a stand alone trilogy. Throughout the series, Burroughs’ imagination and sense of adventure continue to shine through and along with his extravagant prose and innovative vocabulary, he continued to raise his works up above the run-of-the-mill pulp fiction.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Gods of Mars&lt;/i&gt; is Burroughs’ sequel to &lt;a href="https://standardebooks.org/ebooks/edgar-rice-burroughs/a-princess-of-mars"&gt;A Princess of Mars&lt;/a&gt;. After ten long years, John Carter is again transported to Mars to try and determine the fate of his wife Dejah Thoris, but finds himself in the forbidden Valley Dor, from which no man may return. Published serially in five parts between January and May 1913, this sequel appeared a year after the initial serialization of its predecessor. It was eventually published in its full novel form in 1918.&lt;/p&gt;
+			&lt;p&gt;Although the &lt;a href="https://standardebooks.org/collections/martian-series"&gt;Martian Series&lt;/a&gt; contains ten books in total, the first three—of which &lt;i&gt;The Gods of Mars&lt;/i&gt; is the second—are often considered a stand-alone trilogy. Throughout the series, Burroughs’ imagination and sense of adventure shine through, and his extravagant prose and innovative vocabulary raise the works up above run-of-the-mill pulp fiction.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/64</dc:source>
 		<dc:source>https://archive.org/details/godsofmars02burr</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">82639</meta>
+		<meta property="se:reading-ease.flesch">66.67</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Gods_of_Mars</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/edgar-rice-burroughs_the-gods-of-mars</meta>
 		<dc:creator id="author">Edgar Rice Burroughs</dc:creator>
@@ -87,6 +87,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
