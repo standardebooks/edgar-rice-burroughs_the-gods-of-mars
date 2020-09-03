@@ -10,11 +10,6 @@ footer{
 	font-variant: small-caps;
 }
 
-span[epub|type~="subtitle"]{
-	display: block;
-	font-weight: normal;
-}
-
 th{
 	font-variant: small-caps;
 	text-align: center;
