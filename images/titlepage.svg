@@ -3,7 +3,7 @@
 	<title>The titlepage for the Standard Ebooks edition of The Gods of Mars, by Edgar Rice Burroughs</title>
 	<style type="text/css">
 		text{
-			font-family: league spartan;
+			font-family: "League Spartan";
 			letter-spacing: 5px;
 			text-anchor: middle;
 		}
